@@ -1,0 +1,4 @@
+target/
+resultats/*.txt
+*.log
+.DS_Store
